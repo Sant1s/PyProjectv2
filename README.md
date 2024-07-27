@@ -18,3 +18,5 @@
 ```bash
   python3 main.py
 ```
+
+#### P.s. Использована библлиотека aiogram2, которая deprecated
