@@ -19,4 +19,4 @@
   python3 main.py
 ```
 
-#### P.s. Использована библлиотека aiogram2, которая deprecated
+#### P.s. Использована библиотека aiogram2, которая deprecated
